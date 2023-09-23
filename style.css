@@ -1,0 +1,5 @@
+/* Add this CSS to control the size of the rendered images */
+.card-body img {
+  max-width: 100%; /* Adjust this value as needed to control the maximum width */
+  max-height: 200px; /* Adjust this value as needed to control the maximum height */
+}
